@@ -18,7 +18,7 @@
     "vuetify": "^1.4.1",
     "vue-cli-plugin-axios": "^0.0.4",
     "vue-cli-plugin-vuetify": "^0.4.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "@vue/cli-plugin-babel": "^3.3.0",
     "@vue/cli-plugin-eslint": "^3.3.0",
     "@vue/cli-service": "^3.3.0",
